@@ -47,3 +47,9 @@
 .movieRow--listarea:hover, .movieRow--left:hover, .movieRow--right:hover {
     opacity: 1;
 }
+@media screen and (max-width: 760px) {
+    .movieRow--left, .movieRow--right {
+        opacity: 1;
+    }
+}
+    
